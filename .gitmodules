@@ -1,0 +1,3 @@
+[submodule "experiment-conway"]
+	path = experiment-conway
+	url = git@github.com:sagea/experiment-conway.git
